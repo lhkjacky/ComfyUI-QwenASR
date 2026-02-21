@@ -66,6 +66,9 @@ Supported:
 Downloaded models are stored in:
 ```
 ComfyUI/models/Qwen3-ASR/
+
+.\python_embeded\Scripts\hf.exe download Qwen/Qwen3-ASR-1.7B --local-dir ComfyUI/models/Qwen3-ASR/Qwen3-ASR-1.7B
+.\python_embeded\Scripts\hf.exe download Qwen/Qwen3-ForcedAligner-0.6B --local-dir ComfyUI/models/Qwen3-ASR/Qwen3-ForcedAligner-0.6B
 ```
 
 ### config.json (defaults & model list)
